@@ -51,12 +51,12 @@
     "markdownlint-cli2": "^0.22.1",
     "markdownlint-cli2-formatter-summarize": "^0.0.8",
     "msw": "^2.14.6",
-    "postcss": "^8.5.12",
+    "postcss": "^8.5.28",
     "tailwindcss": "^4.3.1",
     "typedoc": "^0.28.19",
     "typedoc-plugin-markdown": "^4.12.0",
     "typescript": "^5.9.3",
-    "vitest": "^4.1.9"
+    "vitest": "^5.0.2"
   },
   "browserslist": {
     "production": [
